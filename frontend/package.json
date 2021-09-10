@@ -13,6 +13,7 @@
     "@types/react-dom": "^17.0.0",
     "add": "^2.0.6",
     "apexcharts": "^3.28.1",
+    "axios": "^0.21.4",
     "bootstrap": "^5.1.1",
     "popper.js": "^1.16.1",
     "react": "^17.0.2",
